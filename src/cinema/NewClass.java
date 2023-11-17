@@ -9,5 +9,5 @@ package cinema;
  * @author Truong
  */
 public class NewClass {
-    
+    ssss
 }
